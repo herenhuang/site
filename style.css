@@ -1,5 +1,5 @@
 /* Font used for all text in the container */
-@import url(https://fonts.googleapis.com/css?family=Oxygen);
+@import url(https://fonts.googleapis.com/css?family=Playfair+Display:400,400italic,700);
 
 /* Reset margins and fill entire space */
 html, body, .container {
@@ -18,7 +18,7 @@ body {
 	
 	/* Page color and font */
 	color: #FFF;
-	font-family: 'Oxygen 27px', sans-serif;
+	font-family: 'Playfair Display', serif;
 }
 
 /* Contains the main content, limits its width, and centers the content */
