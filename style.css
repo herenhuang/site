@@ -20,7 +20,7 @@ body {
 	
 	/* Page color and font */
 	color: #FFF;
-	font-family: 'Pacifico', cursive;
+	font-family: 'Shadows Into Light Two', cursive;
 }
 
 /* Contains the main content, limits its width, and centers the content */
@@ -58,7 +58,7 @@ body {
 /* A bit of resizing of the main content items */
 h1 {
 	font-size: 3em;
-	font-family:"Lobster", cursive;
+	font-family:"Pacifico", cursive;
 }
 h2 {
 	font-size: 1.8em;
