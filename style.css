@@ -50,6 +50,11 @@ body {
 	top: 50px;
 }
 
+.container .inner .content p {
+	top: 100px;
+}
+
+
 /* A bit of resizing of the main content items */
 h1 {
 	font-size: 3em;
