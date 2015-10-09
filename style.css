@@ -38,7 +38,7 @@ body {
 }
 
 /* Another container for adding a darkened background and making it fill the entire height */
-.container .inner {
+/*.container .inner {
 	height: 100px;
 	background: rgba(0, 0, 0, 0.6);
 	display: table-row;  
