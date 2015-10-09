@@ -32,6 +32,7 @@ body {
 	height: 100%;
 	width: 100%;
 	
+	vertical-align: center;
 	text-align: center;
 	display: table;
 }
@@ -58,7 +59,7 @@ body {
 /* A bit of resizing of the main content items */
 h1 {
 	font-size: 3em;
-	font-family:"Slabo", sans-serif;
+	font-family:"Slabo 27px", serif;
 }
 h2 {
 	font-size: 1.8em;
