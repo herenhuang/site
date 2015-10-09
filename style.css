@@ -1,5 +1,6 @@
 /* Font used for all text in the container */
 @import url(http://fonts.googleapis.com/css?family=Slabo+27px);
+@import url(https://fonts.googleapis.com/css?family=Lobster);
 
 /* Reset margins and fill entire space */
 html, body, .container {
@@ -81,6 +82,7 @@ i.fa:hover {
 @media only screen and (max-width: 900px) {
 	h1 {
 		font-size: 2em;
+		font-family:"Lobster";
 	}
 	h2 {
 		font-size: 1.2em;
