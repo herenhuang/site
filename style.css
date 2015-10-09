@@ -11,7 +11,7 @@ html, body, .container {
 
 body {
 	/* Background image for the page */
-	background: #254463 url('background.jpeg') no-repeat center center fixed;
+	background: #254463 url('https://scontent-iad3-1.xx.fbcdn.net/hphotos-xtp1/v/t1.0-9/11705333_10153494085100797_5645376389039380935_n.jpg?oh=740fecbc079e8298357d1b6d7e96fc21&oe=56D05763') no-repeat center center fixed;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -19,7 +19,7 @@ body {
 	
 	/* Page color and font */
 	color: #FFF;
-	font-family: 'Slabo 27px', serif;
+	font-family: 'Lobster 27px', serif;
 }
 
 /* Contains the main content, limits its width, and centers the content */
