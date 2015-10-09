@@ -1,5 +1,6 @@
 /* Font used for all text in the container */
 @import url(https://fonts.googleapis.com/css?family=Playfair+Display:400,400italic,700);
+@import url(https://fonts.googleapis.com/css?family=Pacifico);
 
 /* Reset margins and fill entire space */
 html, body, .container {
@@ -18,7 +19,7 @@ body {
 	
 	/* Page color and font */
 	color: #FFF;
-	font-family: 'Playfair Display', sans-serif;
+	font-family: 'Pacifico', cursive;
 }
 
 /* Contains the main content, limits its width, and centers the content */
