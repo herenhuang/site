@@ -1,7 +1,4 @@
 /* Font used for all text in the container */
-@import url(https://fonts.googleapis.com/css?family=Playfair+Display:400,400italic,700);
-@import url(https://fonts.googleapis.com/css?family=Pacifico);
-@import url(https://fonts.googleapis.com/css?family=Shadows+Into+Light+Two);
 @import url(http://fonts.googleapis.com/css?family=Slabo+27px);
 
 /* Reset margins and fill entire space */
@@ -21,7 +18,7 @@ body {
 	
 	/* Page color and font */
 	color: #FFF;
-	font-family: 'Shadows Into Light Two', cursive;
+	font-family: 'Slabo 27px', serif;
 }
 
 /* Contains the main content, limits its width, and centers the content */
