@@ -79,6 +79,19 @@ i.fa:hover {
 	color: #00C5DB;
 }
 
+.info {
+	background-color: #f7f7f7;
+}
+
+
+
+
+
+
+
+
+
+
 /* Make the site look better and fit the page on mobile */
 @media only screen and (max-width: 900px) {
 	h1 {
