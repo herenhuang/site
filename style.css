@@ -47,7 +47,7 @@ body {
 
 .container .inner {
     background: rgb(170, 187, 97); /* Fallback */
-    background: rgba(170, 187, 97, 0.5);
+    background: rgba(0, 0, 0, 0.6);
 }
 
 /* Final container for containing the page content, applies padding to the content */
